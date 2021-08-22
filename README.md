@@ -13,3 +13,10 @@
 <img src="./res/europa.png" width="400px">
 
 <img src="./res/taobao.png" style="vertical-align: middle"> [青蛙创客官方店](https://item.taobao.com/item.htm?id=618006256099)
+
+## Arduino 依赖库
+
+1. ArduinoJson
+2. Servo
+3. Adafruit_NeoPixel
+4. painlessMesh
